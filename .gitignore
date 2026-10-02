@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Scan output / results
+results.json
+*.json
+!package.json
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
